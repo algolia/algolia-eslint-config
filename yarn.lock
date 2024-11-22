@@ -2861,12 +2861,12 @@ __metadata:
 
 "eslint-config-algolia@file:../eslint-config-algolia::locator=test%40workspace%3Apackages%2Ftest":
   version: 23.2.1
-  resolution: "eslint-config-algolia@file:../eslint-config-algolia#../eslint-config-algolia::hash=85f29e&locator=test%40workspace%3Apackages%2Ftest"
+  resolution: "eslint-config-algolia@file:../eslint-config-algolia#../eslint-config-algolia::hash=1e29f5&locator=test%40workspace%3Apackages%2Ftest"
   peerDependencies:
     "@stylistic/eslint-plugin": ^2.6.4
     eslint: ^5.16.0 || ^6.8.0 || ^7.2.0 || ^8.0.0 || ^9.0.0
     prettier: ^3.0.0
-  checksum: 10c0/53700f716b640d6d3cb73ee8a1d80a8728f2e345129070dfc0aff0ccb2eb67c0d4ad87203b374dcf65277c90ffd2cb96eee962f0fbc92c30c18d373cd4e5e3f9
+  checksum: 10c0/21ee8217e816f0eb5cf2e98cf6206d09081b2f2854550e1a7f7d90793f5275752328cdf53efe6270c6e9b1b04d6065afad77d8db0a37396df47b57e2fa2a8182
   languageName: node
   linkType: hard
 
@@ -6170,10 +6170,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate-config-algolia@npm:2.1.10":
-  version: 2.1.10
-  resolution: "renovate-config-algolia@npm:2.1.10"
-  checksum: 10c0/31ddc4e1bde8bacecaca163acab557adc9886f6351dd8ab8d1078167ebb30d9f633784a0d764e4cd69f4d4c8a6550c01ab36f3c3faa1363d520f4b08ecb6df5c
+"renovate-config-algolia@npm:2.2.0":
+  version: 2.2.0
+  resolution: "renovate-config-algolia@npm:2.2.0"
+  checksum: 10c0/87f23e014d86273a12c4fb7641452595be88fe4e04847e98616095ecdbd6f6ff9be99a2a9a442757ddfa127605ba15dc99c2f5a6a578b6fc3950b88c5c24ffb8
   languageName: node
   linkType: hard
 
@@ -6305,7 +6305,7 @@ __metadata:
     conventional-changelog-cli: "npm:5.0.0"
     doctoc: "npm:2.2.1"
     json: "npm:11.0.0"
-    renovate-config-algolia: "npm:2.1.10"
+    renovate-config-algolia: "npm:2.2.0"
   languageName: unknown
   linkType: soft
 
