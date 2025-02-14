@@ -2861,12 +2861,12 @@ __metadata:
 
 "eslint-config-algolia@file:../eslint-config-algolia::locator=test%40workspace%3Apackages%2Ftest":
   version: 23.2.1
-  resolution: "eslint-config-algolia@file:../eslint-config-algolia#../eslint-config-algolia::hash=85f29e&locator=test%40workspace%3Apackages%2Ftest"
+  resolution: "eslint-config-algolia@file:../eslint-config-algolia#../eslint-config-algolia::hash=11751c&locator=test%40workspace%3Apackages%2Ftest"
   peerDependencies:
     "@stylistic/eslint-plugin": ^2.6.4
     eslint: ^5.16.0 || ^6.8.0 || ^7.2.0 || ^8.0.0 || ^9.0.0
     prettier: ^3.0.0
-  checksum: 10c0/53700f716b640d6d3cb73ee8a1d80a8728f2e345129070dfc0aff0ccb2eb67c0d4ad87203b374dcf65277c90ffd2cb96eee962f0fbc92c30c18d373cd4e5e3f9
+  checksum: 10c0/e5d3ff94c9a0c258d264f16a5d4b15b45e0bf2b6dcd948a1f1354bb15dc9f84d66f57e8abed0afc76776c62bd6aeca9a367ef4c0ceff549855ea31f8fbc26a28
   languageName: node
   linkType: hard
 
@@ -2889,7 +2889,7 @@ __metadata:
     eslint-plugin-react: "npm:7.35.0"
     eslint-plugin-react-hooks: "npm:5.0.0"
     globals: "npm:15.10.0"
-    prettier: "npm:3.3.3"
+    prettier: "npm:3.5.1"
   peerDependencies:
     "@stylistic/eslint-plugin": ^2.6.4
     eslint: ^5.16.0 || ^6.8.0 || ^7.2.0 || ^8.0.0 || ^9.0.0
@@ -5975,6 +5975,15 @@ __metadata:
   bin:
     prettier: bin/prettier.cjs
   checksum: 10c0/b85828b08e7505716324e4245549b9205c0cacb25342a030ba8885aba2039a115dbcf75a0b7ca3b37bc9d101ee61fab8113fc69ca3359f2a226f1ecc07ad2e26
+  languageName: node
+  linkType: hard
+
+"prettier@npm:3.5.1":
+  version: 3.5.1
+  resolution: "prettier@npm:3.5.1"
+  bin:
+    prettier: bin/prettier.cjs
+  checksum: 10c0/9f6f810eae455d6e4213845151a484a2338f2e0d6a8b84ee8e13a83af8a2421ef6c1e31e61e4b135671fb57b9541f6624648880cc2061ac803e243ac898c0123
   languageName: node
   linkType: hard
 
